@@ -1,5 +1,5 @@
 
-## 🆕 Are you looking for a new YOLOv3 implemented by TF2.0 ?
+## 🆕 您正在寻找由TF2.0实现的新的YOLOv3吗?
 
 >If you hate the fucking tensorflow1.x very much, no worries! I have implemented **a new YOLOv3 repo with TF2.0**, and also made a chinese blog on how to implement YOLOv3 object detector from scratch. <br>
 [code](https://github.com/YunYang1994/TensorFlow2.0-Examples/tree/master/4-Object_Detection/YOLOV3) | [blog](https://github.com/YunYang1994/cv-notebooks/blob/master/ai_algorithm/YOLOv3.md)  | [issue](https://github.com/YunYang1994/tensorflow-yolov3/issues/39)
